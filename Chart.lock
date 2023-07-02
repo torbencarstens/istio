@@ -2,5 +2,8 @@ dependencies:
 - name: base
   repository: https://istio-release.storage.googleapis.com/charts
   version: 1.18.0
-digest: sha256:f987e3750148a1d220e3d8586b860d3bd7b257669e9a48533dfd78725bfca710
-generated: "2023-07-02T11:04:45.014895102+02:00"
+- name: istiod
+  repository: https://istio-release.storage.googleapis.com/charts
+  version: 1.18.0
+digest: sha256:5d99bd9e8d84397136f963485dc139e3d3dda1494c12adc57741248d762dfb33
+generated: "2023-07-02T14:34:22.557946628+02:00"
