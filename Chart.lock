@@ -1,12 +1,12 @@
 dependencies:
 - name: base
   repository: https://istio-release.storage.googleapis.com/charts
-  version: 1.18.0
+  version: 1.18.1
 - name: istiod
   repository: https://istio-release.storage.googleapis.com/charts
   version: 1.18.1
 - name: kiali-server
   repository: https://kiali.org/helm-charts
   version: 1.70.0
-digest: sha256:954c14633d3a5b48b8a489f00c870ba3d9f26a1a720d03a9d32bdbb2eb662ef1
-generated: "2023-07-15T08:03:04.533610238Z"
+digest: sha256:367d252c3e2a4a17ceaec9b7be677b1844b962180aaa57f49f0660c7a5ad8d61
+generated: "2023-07-15T13:30:02.231872587Z"
